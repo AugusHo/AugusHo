@@ -1,7 +1,7 @@
 # Augusto Höhlke 👋
 ## Estudiante universitario en Ingeniería en Sistemas de Información.
-
 ##Conocimientos:
+
 ### * Front - End
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="100" height="30">
