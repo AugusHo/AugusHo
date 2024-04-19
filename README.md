@@ -24,5 +24,5 @@
 <br />
 
 ### Contáctame
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto%20Höhlke-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/augusto-hohlke)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto%20Höhlke-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/augusto-hohlke)
 [![Gmail](https://img.shields.io/badge/Gmail-augustohohlke@gmail.com-blue?style=flat-square&logo=gmail)](mailto:augustohohlke@gmail.com)
