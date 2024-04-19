@@ -1,7 +1,7 @@
 # Augusto Höhlke 👋
 ## Estudiante universitario en Ingeniería en Sistemas de Información.
-##Conocimientos:
 
+## Conocimientos en:
 ### * Front - End
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="100" height="30">
@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" width="100" height="30">
 </div>
 
-Contáctame
+<br />
+### Contáctame
 <a href="www.linkedin.com/in/augusto-hohlke">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bruno%20Virinni-blue?style=flat-square&logo=linkedin" width="200" height="30">
 </a>
